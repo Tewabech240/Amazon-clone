@@ -123,7 +123,7 @@ function Payment() {
                     ) : (
                       "Pay Now"
                     )}
-                    Pay Now
+                   
                   </button>
                 </div>
               </form>
